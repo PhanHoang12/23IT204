@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Hoàng Lê Nhất Phan</name>
+        <address>Đắk Lắk</address>
+        <dateOfBirth>2005-07-17</dateOfBirth>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Lê Thành Vũ</name>
+        <address>Quảng Ngãi</address>
+        <dateOfBirth>2005-02-05</dateOfBirth>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Đỗ Văn Hoài Nam</name>
+        <address>Hà Nội</address>
+        <dateOfBirth>2007-01-01</dateOfBirth>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Phùng Tiến Trung</name>
+        <address>Quảng Bình</address>
+        <dateOfBirth>2009-01-01</dateOfBirth>
+    </student>
+    <!-- more students -->
+</students>
